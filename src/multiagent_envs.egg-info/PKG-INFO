@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: multiagent-envs
+Version: 0.0.1
+Summary: Multi-agent Environments
+Home-page: https://github.ccs.neu.edu/ycx424/multiagent-envs
+Author: Yuchen Xiao
+Author-email: xiao.yuch@husky.neu.edu
+License: MIT
